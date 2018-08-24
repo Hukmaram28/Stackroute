@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset=”utf-8”/>
+<html>
+  <head>
+    <title>This is My First Website</title>
+  </head>
+
+<body>
+ <h1>Hello World!</h1>
+
+ <p> <strong>Here</strong> is <em>my</em> text </p>
+</body>
+</html>
