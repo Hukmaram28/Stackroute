@@ -1,0 +1,11 @@
+a {
+    color: yellow; 
+    text-decoration: none;
+}
+
+h1, p, img {
+   font-family: fantasy ; 
+   color: Green; 
+   text-decoration: none;
+   margin-left: 200px;
+}
